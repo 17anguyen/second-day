@@ -1,12 +1,12 @@
 /* TODO: Add typography */
 .lesson {
     background-color: #fffacd;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
 
 /* Fact 1 */
 #fact-1 {
   font-weight: bolder;
-  font-style: italic;
 }
 
 /* TODO: Fact 2 */
